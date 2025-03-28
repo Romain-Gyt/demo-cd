@@ -1,6 +1,6 @@
-import { log } from "console";
 
-log('Oui ca marche');
+
+console.log('Oui ca marche');
 
 const url = "https://pokeapi.co/api/v2/pokemon?offset=0&limit=40";
 
